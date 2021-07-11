@@ -1,1 +1,1 @@
-web: go-api
+web: go-api-zsyocd
